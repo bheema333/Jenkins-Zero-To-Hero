@@ -6,5 +6,5 @@ pipeline {
         git url: 'https://github.com/bheema333/Jenkins-Zero-To-Hero.git', branch: 'main'
       }
     }
-        
+  }      
 }
